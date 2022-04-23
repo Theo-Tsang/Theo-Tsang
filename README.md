@@ -1,5 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Tsang&theme=vue-dark&layout=compact"/>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Tsang&show_icons=true&hide=c&theme=vue-dark"/>
 - 👋 Hi, I’m @[Theo Tsang](https://jan-z.top/about)
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
