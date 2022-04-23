@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Tsang&show_icons=true&hide=c&theme=vue-dark"/>
-### 👋 Hey, nice to see you!
+## 👋 Hey, nice to see you!
 
 I’m @Theo Tsang, An EE major student👨‍🎓
 
