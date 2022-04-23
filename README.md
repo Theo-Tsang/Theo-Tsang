@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Tsang&show_icons=true&hide=c&theme=vue-dark"/>
-👋 Hi, I’m @Theo Tsang, An EE major student👨‍🎓
+### 👋 Hey, nice to see you!
+
+I’m @Theo Tsang, An EE major student👨‍🎓
 
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
