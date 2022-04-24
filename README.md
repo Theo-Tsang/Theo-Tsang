@@ -9,9 +9,10 @@
 - 📢 Welcome my [Blog](https://jan-z.top/about/)
 
 
+## Github Stats
 <table><tr><td valign="top" width="50%">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&count_private=true&hide_border=true&line_height=50" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&count_private=true&hide_border=true&line_height=40" align="left" style="width: 100%" />
   
 </td><td valign="top" width="50%">
 <div align="center">
