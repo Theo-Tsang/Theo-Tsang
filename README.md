@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Tsang&show_icons=true&hide=c&theme=vue-dark"/>
 ## 👋 Hey, nice to see you!
 
 I’m @Theo Tsang, An EE major student👨‍🎓
@@ -11,7 +10,19 @@ I’m @Theo Tsang, An EE major student👨‍🎓
 -
 - 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&theme=vue-dark&count_private=true"/>
+
+<table><tr><td valign="top" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&count_private=true&hide_border=true&line_height=50" align="left" style="width: 100%" />
+  
+</td><td valign="top" width="50%">
+<div align="center">
+  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  
+</div>  
+</td></tr></table>  
+
 
 <!---
 Theo-Tsang/Theo-Tsang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
