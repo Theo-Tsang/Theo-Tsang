@@ -1,17 +1,14 @@
-## 👋 Hey, nice to see you!
+<p align="center"><a href="https://jan-z.top/about"><img width="80%" src="./image/hello.png" /></a></p>
 
-I’m @Theo Tsang, An EE major student👨‍🎓, from china 
+👋 Hey, nice to see you! I’m @Theo Tsang, An EE major student👨‍🎓, from china
 
 **About me**
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
 - 📜 languages `Chinese, English(passable), German(a little)`
 - 📢 welcome my [Blog](https://jan-z.top/about/)
--
--
-- 
 
-## Github stats
+
 <table><tr><td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&count_private=true&hide_border=true&line_height=50" align="left" style="width: 100%" />
