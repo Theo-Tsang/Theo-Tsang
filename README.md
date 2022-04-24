@@ -1,12 +1,14 @@
 <p align="center"><a href="https://jan-z.top/about"><img width="80%" src="./image/hello.png" /></a></p>
 
-👋 Hey, nice to see you! I’m @Theo Tsang, An EE major student👨‍🎓
+👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://jan-z.top/about), An EE major student</b>👨‍🎓 </em>
 
 **About me**
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
 - 📜 Languages `Chinese, English(passable), German(a little)`
-- 📢 Welcome to my [Blog](https://jan-z.top/about/)
+- 🎮 Assassin's Creed veteran player🥇
+- 😋 I like eating and sleeping...
+- 💑 I met my girl in 2021
 
 
 **Github Stats**
