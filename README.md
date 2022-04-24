@@ -1,7 +1,8 @@
 ## 👋 Hey, nice to see you!
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Tsang&show_icons=true&hide=c"/>
-I’m @Theo Tsang, An EE major student👨‍🎓
 
+I’m @Theo Tsang, An EE major student👨‍🎓, from china 
+
+**About me**
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
 - 📜 languages `Chinese, English(passable), German(a little)`
