@@ -6,7 +6,7 @@
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
 - 📜 Languages `Chinese, English(passable), German(a little)`
-- 📢 Welcome my [Blog](https://jan-z.top/about/)
+- 📢 Welcome to my [Blog](https://jan-z.top/about/)
 
 
 **Github Stats**
