@@ -1,6 +1,6 @@
 <p align="center"><a href="https://jan-z.top/about"><img width="80%" src="./image/hello.png" /></a></p>
 
-👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://jan-z.top/about), An EE major student</b>👨‍🎓 </em>
+👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/about), An EE major student</b>👨‍🎓 </em>
 
 **About me**
 - 👀 I’m interested in `Embedded Linux`
