@@ -1,4 +1,4 @@
-<p align="center"><a href="https://jan-z.top/about"><img width="80%" src="./image/hello.png" /></a></p>
+<p align="center"><a href="https://theotsang.xyz/about"><img width="80%" src="./image/hello.png" /></a></p>
 
 👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/about), An EE major student</b>👨‍🎓 </em>
 
