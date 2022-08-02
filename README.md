@@ -8,7 +8,7 @@
 - 📜 Languages `Chinese, English(passable), German(a little)`
 - 🎮 Assassin's Creed veteran player🥇
 - 😋 I like eating and sleeping...
-- 💑 I met my girl in 2021
+
 
 
 **Github Stats**
