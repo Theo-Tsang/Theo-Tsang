@@ -1,8 +1,8 @@
 <p align="center"><a href="https://theotsang.xyz/about"><img width="80%" src="./image/hello.png" /></a></p>
 
-👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/about), An EE major student</b>👨‍🎓 </em>
+### 👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/about), An EE major student</b>👨‍🎓 </em>
 
-#### **🧙‍ About me**
+### **🧙‍ About me**
 - 👀 I’m interested in `Embedded Linux`
 - 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
 - 📜 Languages `Chinese, English(passable), German(a little)`
@@ -11,12 +11,12 @@
 - 🤡 Is Me 
 
 
-#### **📊 Weekly development breakdown**
+### **📊 Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
-#### **🛠 Github Stats**
+### **🛠 Github Stats**
 <table><tr><td valign="top" width="50%">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&count_private=true&hide_border=true&line_height=40" align="left" style="width: 100%" />
