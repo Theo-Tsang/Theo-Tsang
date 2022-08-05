@@ -17,3 +17,5 @@ jobs:
       - uses: Theo-Tsang/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Updated the Readme
+          SHOW_TITLE: true
