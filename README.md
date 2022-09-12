@@ -1,6 +1,6 @@
-<p align="center"><a href="https://theotsang.xyz/about"><img width="80%" src="https://theotsang.xyz/img_data/github_hello.png" /></a></p>
+<p align="center"><a href="https://theotsang.xyz/"><img width="80%" src="https://theotsang.xyz/img_data/github_hello.png" /></a></p>
 
-👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/about), An EE major student</b>👨‍🎓 </em>
+👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/), An EE major student</b>👨‍🎓 </em>
 
 #### **🧙‍ About me**
 - 👀 I’m interested in `Embedded Linux`
