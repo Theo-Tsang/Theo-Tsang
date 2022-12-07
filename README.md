@@ -3,9 +3,9 @@
 👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://theotsang.xyz/), An EE major student</b>👨‍🎓 </em>
 
 #### **🧙‍ About me**
-- 👀 I’m interested in `Embedded Linux`
-- 🌱 I’m currently learning `C, C++, Web, Embedded Linux, FPGA...`
-- 📜 Languages `Chinese, English(passable), German(a little)`
+- 👀 I’m interested in `FPGA, Embedded Linux`
+- 🌱 I’m currently learning `FPGA, Embedded Linux, C, C++, Web...`
+- 📜 Languages `Chinese, English(passable), Spanish(learning), German(a little)`
 - 🎮 Assassin's Creed veteran player🥇
 - 😋 I like eating and sleeping...
 - 🤡 Is Me 
