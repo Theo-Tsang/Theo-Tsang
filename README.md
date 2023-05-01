@@ -5,7 +5,7 @@
 #### **🧙‍ About me**
 - 👀 I’m interested in `FPGA, Embedded Linux`
 - 🌱 I’m currently learning `FPGA, Embedded Linux, C, C++, Web...`
-- 📜 Languages `Chinese, English(passable), Spanish(learning), Japanese(learning), German(学不明白🤣)`
+- 📜 Languages `Chinese, English(passable), Spanish(learning), 日本語(learning), German(学不明白🤣)`
 - 🎮 Assassin's Creed veteran player🥇
 - 😋 I like eating and sleeping...
 
