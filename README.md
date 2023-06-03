@@ -1,4 +1,4 @@
-<p align="center"><a href="https://theotsang.xyz/"><img width="80%" src="https://theotsang.xyz/img_data/github_hello.png" /></a></p>
+<p align="center"><a href="https://theotsang.xyz/"><img width="80%" src="https://shzeng.cn/img/github_hello.png" /></a></p>
 
 👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://shzeng.cn/), An EE major student</b>👨‍🎓 </em>
 
