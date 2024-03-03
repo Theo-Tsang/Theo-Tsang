@@ -14,9 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
+Total Time: 11 mins
 
-SSH Config   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Markdown     9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.89 %
+SSH Config   1 min           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.11 %
 ```
 
 <!--END_SECTION:waka-->
