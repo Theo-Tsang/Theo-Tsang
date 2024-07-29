@@ -14,9 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 16 mins
+Total Time: 7 hrs 30 mins
 
-Other           2 hrs 11 mins   ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.37 %
+SystemVerilog   3 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.54 %
+Other           2 hrs 11 mins   ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.59 %
 ```
 
 <!--END_SECTION:waka-->
