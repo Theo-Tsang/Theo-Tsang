@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 12 mins
-
-Bash   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
