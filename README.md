@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 mins
-
-C          2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀   90.13 %
-Makefile   0 secs          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
