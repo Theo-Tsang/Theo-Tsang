@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 mins
-
-SystemVerilog   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀   81.97 %
-V               1 min           ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
