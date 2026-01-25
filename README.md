@@ -1,11 +1,11 @@
-<p align="center"><a href="https://shzeng.cn/"><img width="80%" src="https://blog.shzeng.cn/img/github_hello.png" /></a></p>
+<p align="center"><a href="https://shzeng.cn/"><img width="80%" src="http://blog.shzeng.cn/img/github_hello.png" /></a></p>
 
 👋 <em><b>Hey, nice to see you! I’m @[Theo Tsang](https://shzeng.cn/), An EE major student</b>👨‍🎓 </em>
 
 #### **🧙‍ About me**
 - 👀 I’m interested in `FPGA, Embedded Linux`
 - 🌱 I’m currently learning `FPGA, Embedded Linux, C, C++, Web...`
-- 📜 Languages `Chinese, English(passable), Spanish(learning), 日本語(learning), German(学不明白🤣)`
+- 📜 Languages `Chinese, English(passable), 日本語(learning), German(学不明白🤣)`
 - 🎮 Assassin's Creed veteran player🥇
 - 😋 I like eating and sleeping...
 
