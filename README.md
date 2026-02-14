@@ -24,18 +24,17 @@ Other           8 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
-#### **🛠 Github Stats**
-<table><tr><td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Theo-Tsang&show_icons=true&count_private=true&hide_border=true&line_height=40" align="left" style="width: 100%" />
-  
-</td><td valign="top" width="50%">
-<div align="center">
-  
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-  
-</div>  
-</td></tr></table>  
+#### **🛠 Github Dashboard**
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74777205" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74777205&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Theo-Tsang" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74777205&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!---
 Theo-Tsang/Theo-Tsang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
