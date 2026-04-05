@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 mins
-
-Python   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
