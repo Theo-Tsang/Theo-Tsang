@@ -14,7 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 21 mins
+
+Other      22 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.35 %
 ```
 
 <!--END_SECTION:waka-->
